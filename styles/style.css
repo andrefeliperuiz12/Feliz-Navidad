@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    text-align: center;
+    }
+section{
+    background-image: url(image/Christmas.jpg);
+}
+audio{
+    padding-top: 2%;
+}
+table{
+    padding-left: 20%;
+}
+hr{
+    color: deeppink;
+    height: 5%;
+    width: 75%;
+    padding-top: 1%;
+}
